@@ -8,6 +8,8 @@ This project is for demo, demonstrating java classes, sql20 connection, gson, js
 - H2 database
 - GSON library
 
+- Table Relation [link, made with dbdiagram.io](https://dbdiagram.io/d/62796f587f945876b6e4e423)
+
 ## Main Classes 
 - Resume Object
 - Review Object
